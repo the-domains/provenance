@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Provenance]]></title>
         <description><![CDATA[Provenance]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/provenance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 11:54:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 12:47:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/provenance/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Imagine a place where you are welcomed with a smile and by name,</p>]]></description>
-            <link>undefinedundefined/index.html</link>
+            <description><![CDATA[<p>Imagine a place, </p>]]></description>
+            <link>https://thegrid.ai/provenance/undefined/index.html</link>
             <guid isPermaLink="false">5173fd4d-b15b-4faa-a27c-4d4fb6ebf9a1</guid>
-            <pubDate>Tue, 29 Mar 2016 11:54:28 GMT</pubDate>
+            <pubDate>Tue, 29 Mar 2016 12:47:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
