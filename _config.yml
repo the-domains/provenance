@@ -1,7 +1,7 @@
 name: Provenance
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.7887715110555291
+typography_spectrum: 0.78695
 title: Provenance
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#eeedeb'
     - '#a8a7a5'
     - '#ce8146'
-  brandStrength: 0.5451715581584722
+  brandStrength: 0.5
   lightness: 0.5602718612644821
   saturation: 0.5829440441448241
   rhythmicContrast: 0.40941704623401165
