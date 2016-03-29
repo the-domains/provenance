@@ -2,6 +2,7 @@ name: Provenance
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.7887715110555291
+title: Provenance
 cta:
   domain: null
   bucket: null
