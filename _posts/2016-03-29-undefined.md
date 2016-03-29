@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Imagine a place where you are welcomed with a smile and by name,'
-datePublished: '2016-03-29T12:47:02.785Z'
-dateModified: '2016-03-29T12:46:42.490Z'
+datePublished: '2016-03-29T12:58:31.294Z'
+dateModified: '2016-03-29T12:47:10.471Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-29-undefined.md
@@ -32,9 +32,9 @@ Where you can relax,
 
 and do as you near please,
 
-By yourself or with friends.
+By yourself or with friends,
 
-And enjoy coffee,
+and enjoy coffee,
 
 That tastes as great as it smells,
 
