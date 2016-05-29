@@ -1,6 +1,6 @@
 name: Provenance
 favicon: null
-layout_spectrum: 0.50865
+layout_spectrum: 0.99002
 typography_spectrum: 0.67594
 title: Provenance
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#28292b'
-    - '#595451'
-    - '#eeedeb'
-    - '#a8a7a5'
-    - '#ce8146'
-  brandStrength: 0.1875
-  lightness: 0.75
-  saturation: 0.6875
+    - '#0b0803'
+    - '#433421'
+    - '#834c2e'
+    - '#efece7'
+    - '#d5b493'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
