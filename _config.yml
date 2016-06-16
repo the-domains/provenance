@@ -1,29 +1,29 @@
-typography_spectrum: 0.26951
-color:
-  brandColors:
-    - '#0b0803'
-    - '#433421'
-    - '#834c2e'
-    - '#efece7'
-    - '#d5b493'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.99002
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 name: Provenance
+favicon: null
+layout_spectrum: 0.99002
+typography_spectrum: 0.26951
+title: Provenance
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
-title: Provenance
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#28292b'
+    - '#eeedeb'
+    - '#a8a7a5'
+    - '#b64e16'
+    - '#db7b48'
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
