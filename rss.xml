@@ -4,15 +4,8 @@
         <description><![CDATA[Provenance]]></description>
         <link>https://thegrid.ai/provenance/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 23 Jun 2016 08:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2016 08:17:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/provenance/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7d14bf9-dde9-41fe-bd16-3a55b7266e24.jpg">]]></description>
-            <link>https://thegrid.ai/provenance/2664bdc5-2aca-46cb-98f0-0839ac09a19d/index.html</link>
-            <guid isPermaLink="false">2664bdc5-2aca-46cb-98f0-0839ac09a19d</guid>
-            <pubDate>Thu, 23 Jun 2016 08:17:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Superlative Chai]]></title>
             <description><![CDATA[<article><h1>Superlative Chai</h1><p>Its not Coffee, Its not Hot Choc, Its in a heavenly class of its own. Chai</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de0df9c469dbe6f3a1da3e96f727e1f5cd876e4c.jpg"></article>]]></description>
@@ -91,6 +84,13 @@ Every time!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/96fac
             <link>https://thegrid.ai/provenance/amongst-the-hustle-and-bustle-there-is-joy/index.html</link>
             <guid isPermaLink="false">5173fd4d-b15b-4faa-a27c-4d4fb6ebf9a1</guid>
             <pubDate>Thu, 23 Jun 2016 08:11:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6672f8d7-fe13-4af4-8b31-6a9f62d23dd5.jpg">]]></description>
+            <link>https://thegrid.ai/provenance/if-this-is-coffee-then-bring-me-some-tea/index.html</link>
+            <guid isPermaLink="false">99bd3b0c-3471-4d22-b92a-8b0b8198898c</guid>
+            <pubDate>Thu, 23 Jun 2016 08:11:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
