@@ -1,25 +1,27 @@
 ---
-description: Who are They? to not consider the vessel or your environment
-dateModified: '2016-06-27T11:31:44.616Z'
-datePublished: '2016-06-27T12:14:44.751Z'
-title: 'They say its all about the Body, Aroma, Flavour and Acidity. '
+description: ''
+dateModified: '2016-06-27T13:17:06.220Z'
+datePublished: '2016-06-27T13:17:39.510Z'
+title: 'They say its all about the Body, Aroma, Flavour and Acidity.'
 author: []
-starred: false
 sourcePath: _posts/2016-06-27-they-say-its-all-about-the-body-aroma-flavour-and-acidity.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# They say its all about the Body, Aroma, Flavour and Acidity. 
+### They say its all about the Body, Aroma, Flavour and Acidity.
 
-# They are Wrong
+### **They are not completely Wrong.**
 
-Who are They? to not consider the vessel or your environment
+### Who are They anyhow? to not consider your vessel or your environment.
 
-Give me the worlds most expensive coffee and serve it to me in a foam cup and stick me in the middle of peak hour on a sydney train, yuck
+### Give me the worlds most expensive coffee and serve it to me in a foam cup and stick me in the middle of peak hour on a City train, yuck!! 
 
-Go camping and boil up some crap instant on a cold morning with friends in a steel mug, yum
+### Go camping and boil up some crap instant on a cold morning with friends in a steel mug, yum'ish.
 
-try it with water. good filtered water served in a foam cup and same water served in a bohemian crystal glass. which tastes better?
+### Try my point with water. Use good filtered water served in a foam cup and the same water served in a bohemian crystal glass.
+
+### _which tastes better? and consider your chosen environment to enjoy either_
