@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-06-23T08:17:02.851Z'
+datePublished: '2016-06-27T13:19:57.411Z'
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/47466823-26df-4910-94b0-e4d88cda7c4d.jpg
 author: []
-dateModified: '2016-06-16T08:10:05.632Z'
+dateModified: '2016-06-27T13:19:56.894Z'
 title: My time for a fleeting moment
 description: ''
 inFeed: true
@@ -13,8 +13,8 @@ inLanguage: null
 keywords: []
 authors: []
 publisher: null
-starred: true
 sourcePath: _posts/2016-06-23-my-time-for-a-fleeting-moment.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
