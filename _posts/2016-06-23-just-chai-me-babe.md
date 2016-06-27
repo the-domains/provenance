@@ -7,14 +7,14 @@ isBasedOnUrl: >-
 inLanguage: null
 keywords: []
 description: Just Chai Me Babe
-datePublished: '2016-06-23T08:16:39.252Z'
-dateModified: '2016-06-16T08:11:53.166Z'
+datePublished: '2016-06-27T13:19:42.354Z'
+dateModified: '2016-06-27T13:19:41.597Z'
 author: []
 title: ''
 authors: []
 publisher: null
-starred: true
 sourcePath: _posts/2016-06-23-just-chai-me-babe.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
