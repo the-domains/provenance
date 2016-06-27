@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-06-27T13:19:14.969Z'
+datePublished: '2016-06-27T13:19:18.309Z'
 sourcePath: _posts/2016-03-29-undefined.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-06-27T13:19:13.998Z'
+dateModified: '2016-06-27T13:19:17.699Z'
 title: Amongst the hustle and bustle There is Joy
 publisher: null
 description: ''
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 url: amongst-the-hustle-and-bustle-there-is-joy/index.html
 _type: Article
 
