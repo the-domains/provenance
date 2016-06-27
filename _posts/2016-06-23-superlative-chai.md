@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-06-23T08:17:05.933Z'
+datePublished: '2016-06-27T13:20:00.872Z'
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce79c41c-ee1d-415e-b070-7ae8ec4fb724.jpg
 author: []
-dateModified: '2016-06-16T08:11:26.222Z'
+dateModified: '2016-06-27T13:20:00.070Z'
 title: Superlative Chai
 description: 'Its not Coffee, Its not Hot Choc, Its in a heavenly class of its own. Chai'
 inFeed: true
@@ -13,8 +13,8 @@ inLanguage: null
 keywords: []
 authors: []
 publisher: null
-starred: true
 sourcePath: _posts/2016-06-23-superlative-chai.md
+starred: false
 _context: 'http://schema.org'
 _type: Article
 
